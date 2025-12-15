@@ -31,7 +31,7 @@ This project complement my NLP work by demonstrating applied <b>computer vision 
   - Custom dataset annotated in <b>YOLO format</b>
   - Model trained on <b>GPU (RTX 4060 Laptop GPU, CUDA)</b>
   - Real-time <b> Webcam detection</b>
-  - Inference <b> CLI and Pyton scripts</b>
+  - Inference <b> CLI and Python scripts</b>
   - Training metrics and results visualized
 
 
@@ -46,7 +46,7 @@ This project complement my NLP work by demonstrating applied <b>computer vision 
 
 
 ## MODEL & TRAINING
-  - <b>Model:</b> YOLOv8n (ULtralytics)
+  - <b>Model:</b> YOLOv8n (Ultralytics)
   - <b>Framework</b> Pytorch + Ultralytics YOLO
   - <b>Image Size:</b> 640 x 640
   - <b>Initial training:<b/> 50 epochs
@@ -75,7 +75,7 @@ names:
 
 Training curves(losses and mAP) are included in `results.png`
 
-Example detections and webcam results are provided in the `Screenshpts/` folder.
+Example detections and webcam results are provided in the `Screenshots/` folder.
 
 
 ---
@@ -100,7 +100,7 @@ python image_cat_detector.py
 
 ### Video Detection
 ```
-python video_cat_deteect.py
+python video_cat_detect.py
 ```
 Outputs an annotated video file.
 
@@ -130,7 +130,7 @@ YOLO-cat-detection/
 ## Notes
 This repository focuses on <b>model training and inference.</b>
 
-### Discalimer ⚠️
+### Disclaimer ⚠️
 This repository is for <b>Educational Purpose Only.</b>
 
 
