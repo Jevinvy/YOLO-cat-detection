@@ -1,5 +1,9 @@
 <h1 align="center">😺 YOLO cat detection(custom detection) 📷</h1>
 
+<p align="center">
+  <i>This project represents my first hands-on exploration of computer vision, following earlier work in NLP.</i>
+</p>
+
 ## Overview
 This project is a <b>custom object detection system</b> built using <b> YOLOv8</b> and a self-labeled dataset to detect my own cats in <b>images, videos, and real-time webcam streams.</b>
 The goal was to understand the <b> full computer vision pipeline</b>: data collection, annotation, training, evaluation, and inference.
