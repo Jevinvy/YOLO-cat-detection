@@ -8,8 +8,18 @@ This project complement my NLP work by demonstrating applied <b>computer vision 
 
 ## 📷 Demo
 
+<p align="center">
+  <img src="https://github.com/Jevinvy/YOLO-cat-detection/blob/main/Screenshots/1.png?raw=true" width="45%" />
+  <img src="https://github.com/Jevinvy/YOLO-cat-detection/blob/main/Screenshots/2.png?raw=true" width="45%" />
+  <img src="https://github.com/Jevinvy/YOLO-cat-detection/blob/main/Screenshots/4.png?raw=true" width="45%" />
+  <img src="https://github.com/Jevinvy/YOLO-cat-detection/blob/main/Screenshots/3.png?raw=true" width="45%" />
+</p>
+<p align="center"> (Click on the image to see it fully) </p>
 
-
+<p align="center">
+  <img src="https://github.com/Jevinvy/YOLO-cat-detection/blob/main/Screenshots/webcam.png?raw=true" width="45%" />
+</p>
+<p align="center"> (This one is from webcam) </p>
 
 ---
 
