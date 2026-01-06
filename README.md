@@ -8,7 +8,6 @@
 This project is a <b>custom object detection system</b> built using <b> YOLOv8</b> and a self-labeled dataset to detect my own cats in <b>images, videos, and real-time webcam streams.</b>
 The goal was to understand the <b> full computer vision pipeline</b>: data collection, annotation, training, evaluation, and inference.
 
-This project complement my NLP work by demonstrating applied <b>computer vision and deep learning</b>
 
 ## 📷 Demo
 
